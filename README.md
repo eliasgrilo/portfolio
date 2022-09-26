@@ -1,18 +1,19 @@
 # Data Science Portfolio
-
 Hi!
-
 First I would like to say thank you for your time.
 
 This Portfolio Is a collection of works and documentation of my Data science journey life. 
-
 Projects completed by me for academic, self learning, and hobby purposes. 
+
 Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
 My name is Elias and I'm so glad that you are here, please enjoy it.
 
-[Note:] Data used in the projects (accessed under data directory) is for demonstration purposes only.
+#### Note: 
 
+	Data used in the projects (accessed under data directory) is for demonstration purposes only and has changed for security reasons.
+	
+	
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
@@ -67,7 +68,7 @@ My name is Elias and I'm so glad that you are here, please enjoy it.
 		- [ML Logistic Regression](): Predicting salary class of a person using logistic regression.
 		- [ML Decision Trees and Random Forests](): Using Decision Trees and Random Forests to classify schools as Private or Public.
 
-You can find me in the Linkedin general [here](https://www.linkedin.com/in/eliasgrilo/).
+You can find me in the Linkedin [here](https://www.linkedin.com/in/eliasgrilo/).
 
 work opportunities or collaborations, Please shoot an email at eliasggrilo@gmail.com.
 
