@@ -1,12 +1,14 @@
 # Data Science Portfolio
 Hi!
 
-My name is Elias and I'm so glad that you are here.
-
 
 First I would like to say thank you for your time.
 
+
 Here is a collection of my of my Data science journey life. Projects completed by me for academic, works, self learning, and hobby purposes. Presented in the form of .py for Python, and R markdown files for R.
+
+
+My name is Elias and I'm so glad that you are here, please enjoy.
 
 
 #### Note: 
