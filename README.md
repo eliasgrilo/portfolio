@@ -1,4 +1,4 @@
-# Data Scienci Portfolio
+# Data Science Portfolio
 
 Hi!
 
