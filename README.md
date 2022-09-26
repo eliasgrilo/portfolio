@@ -1,14 +1,15 @@
 # Data Science Portfolio
-Hi!
+Hi,
 
+first of all, I want to thank you for your time.
 
-First, I would like to say thank you for your time.
+Here you will find a collection with part of my projects developed throughout my life in the world of data science.  Projects executed by me for academic purposes, work, self-learning and hobbies.  Projects are presented in the form of .py files for Python and R markdown for R.
 
+Hope you like it.
 
-Here is a collection of my of my Data science journey life. Projects completed by me for academic, works, self learning, and hobby purposes. Presented in the form of .py for Python, and R markdown files for R.
+Sincerely,
 
-
-My name is Elias and I'm so glad that you are here, please enjoy!
+Elias Grilo
 
 
 #### Note: 
@@ -70,8 +71,8 @@ My name is Elias and I'm so glad that you are here, please enjoy!
 		- [ML Logistic Regression](): Predicting salary class of a person using logistic regression.
 		- [ML Decision Trees and Random Forests](): Using Decision Trees and Random Forests to classify schools as Private or Public.
 
-You can find me in the Linkedin [here](https://www.linkedin.com/in/eliasgrilo/).
+You can find me in the Linkedin [eliasgrilo](https://www.linkedin.com/in/eliasgrilo/).
 
-work opportunities or collaborations, Please shoot an email at eliasggrilo@gmail.com.
+Work opportunities or collaborations, Please shoot an email at eliasggrilo@gmail.com.
 
 Thank you!
